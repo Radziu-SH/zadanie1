@@ -1,14 +1,12 @@
 1234
 
-
-
 asdasdasgj
-
 
 dopisane na galezi1
 
-
-
-
 #dopisane na master
 konflikt 1
+
+#dopisane na galezi2
+
+konfliktowa galaz2
