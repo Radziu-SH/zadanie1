@@ -1,1 +1,5 @@
 rebase_galaz3
+
+
+dopisanie czegos w pliku3 na master
+
