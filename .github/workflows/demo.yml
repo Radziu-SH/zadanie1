@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - run: echo 123 > test.html
+      - run: echo 12345 > test.html
       - uses: actions/upload-artifact@v7
         with:
           path: test.html
